@@ -22,3 +22,13 @@ Task 3
 
 What framework did the favicon belong to?
 > cgiirc
+
+Task 4
+
+What is the path of the secret area that can be found in the sitemap.xml file?
+> /s3cr3t-area
+
+Task 5
+
+What is the flag value from the X-FLAG header?
+> THM{HEADER_FLAG}
