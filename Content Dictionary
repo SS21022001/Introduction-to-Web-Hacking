@@ -32,3 +32,23 @@ Task 5
 
 What is the flag value from the X-FLAG header?
 > THM{HEADER_FLAG}
+
+Task 6
+
+What is the flag from the framework's administration portal?
+> THM{CHANGE_DEFAULT_CREDENTIALS}
+
+Task 7
+
+What Google dork operator can be used to only show results from a particular site?
+> site:
+
+Task 8
+
+What online tool can be used to identify what technologies a website is running?
+> Wappalyzer
+
+Task 9
+
+What is the website address for the Wayback Machine?
+> https:// archive.org /web
